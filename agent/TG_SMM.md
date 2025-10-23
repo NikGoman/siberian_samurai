@@ -1,5 +1,5 @@
 ### METADATA ###
-- Version: 0.1.7  
+- Version: 0.1.8  
 - Author: Nikita Goman  
 ### END METADATA ###
 
